@@ -1,2 +1,2 @@
 # umgcjavafullstack
-Software Engineering in UMGC July 2022
+Software Engineering Bootcamp in UMGC July 2022
